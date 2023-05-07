@@ -9,9 +9,10 @@ PasswordManager is a simple command-line tool that allows you to store and manag
 To install PasswordManager, simply clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/username/PasswordManager.git
+git clone https://github.com/MacharlaLalithAkash/PasswordManager.git
 cd PasswordManager
 pip install -r requirements.txt
+```bash
 
 ## Usage
 python password_manager.py
