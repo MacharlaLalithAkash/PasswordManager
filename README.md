@@ -12,7 +12,5 @@ To install PasswordManager, simply clone the repository and install the required
 git clone https://github.com/MacharlaLalithAkash/PasswordManager.git
 cd PasswordManager
 pip install -r requirements.txt
-```bash
 
-## Usage
 python password_manager.py
